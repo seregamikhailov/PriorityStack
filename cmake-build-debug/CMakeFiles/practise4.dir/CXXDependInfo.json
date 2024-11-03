@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/University/University 3 semester/TOOP/practise4/cmake-build-debug",
+	"dir-cur-src" : "D:/University/University 3 semester/TOOP/practise4",
+	"dir-top-bld" : "D:/University/University 3 semester/TOOP/practise4/cmake-build-debug",
+	"dir-top-src" : "D:/University/University 3 semester/TOOP/practise4",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/University/University 3 semester/TOOP/practise4/cmake-build-debug/CMakeFiles/practise4.dir"
+}

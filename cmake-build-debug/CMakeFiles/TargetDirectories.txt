@@ -1,0 +1,3 @@
+D:/University/University 3 semester/TOOP/practise4/cmake-build-debug/CMakeFiles/practise4.dir
+D:/University/University 3 semester/TOOP/practise4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University/University 3 semester/TOOP/practise4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

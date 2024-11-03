@@ -1,0 +1,9 @@
+# ninja log v6
+509	2082	7521692118340745	CMakeFiles/practise4.dir/source.cpp.obj	97b85475794b1829
+46	432	7521580697816984	CMakeFiles/practise4.dir/PriorityStack.cpp.obj.ddi	eff69b18de7c9664
+41	437	7521692113665484	CMakeFiles/practise4.dir/source.cpp.obj.ddi	82626760c318fa5c
+438	506	7521692117627979	CMakeFiles/practise4.dir/source.cpp.obj.modmap	df2e3d4bb12010ed
+438	506	7521692117627979	CMakeFiles/practise4.dir/CXX.dd	df2e3d4bb12010ed
+497	1782	7521580702326824	CMakeFiles/practise4.dir/PriorityStack.cpp.obj	cda58474e3bae588
+2083	2318	7521692134081972	practise4.exe	9ccd0a8c8aea7519
+438	506	7521692117627979	CMakeFiles/practise4.dir/PriorityStack.cpp.obj.modmap	df2e3d4bb12010ed
